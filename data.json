@@ -1,0 +1,119 @@
+[
+    {
+        "text": "MORTGAGE AGREEMENT\n\nThis Agreement is made this 5th day of March, 2025, by and between:\n\nBorrower: Jonathan D. Andrews\nAddress: 123 Elm St, Oakwood, TX 75001\nLender: Crestwood Bank\nAddress: 456 Crestview Ave, Oakwood, TX 75002\n\nLoan Amount: $200,000\nInterest Rate: 4.25%\nTerm: 30 years\n\nThe Borrower agrees to repay the loan amount in equal monthly installments for the entire term of the loan.\n\nSigned by Borrower: ____________________\nSigned by Lender: _____________________",
+        "entities": [
+            {
+                "entity": "Jonathan D. Andrews",
+                "label": "BORROWER"
+            },
+            {
+                "entity": "Crestwood Bank",
+                "label": "LENDER"
+            }
+        ]
+    },
+    {
+        "text": "LOAN AND MORTGAGE AGREEMENT\n\nDate: 5th March, 2025\nParties:\n  Borrower: Emily J. Lawson\n  Address: 789 Pine Ridge Rd, Denver, CO 80202\n  Lender: Royal Trust Mortgage\n  Address: 150 Finance Blvd, Denver, CO 80203\n\nLoan Details:\n  Amount: $350,000\n  Interest: 3.75% annually\n  Repayment Term: 25 years\n\nThe Borrower acknowledges the receipt of funds and agrees to repay as per the schedule.\n\nSigned by Borrower: ____________________\nSigned by Lender: _____________________",
+        "entities": [
+            {
+                "entity": "Emily J. Lawson",
+                "label": "BORROWER"
+            },
+            {
+                "entity": "Royal Trust Mortgage",
+                "label": "LENDER"
+            }
+        ]
+    },
+    {
+        "text": "MORTGAGE LOAN CONTRACT\n\nTHIS AGREEMENT, made this 5th day of March, 2025, by and between the undersigned:\n\nBorrower: Brian L. Taylor\nAddress: 50 Southgate Ave, San Francisco, CA 94107\nLender: Golden State Financial\nAddress: 1200 Gold Street, San Francisco, CA 94110\n\nAmount of Loan: $600,000\nInterest Rate: 3.5% per annum\nTerm: 20 years\n\nThe Borrower agrees to the terms of repayment outlined in this agreement.\n\nSigned by Borrower: ____________________\nSigned by Lender: _____________________",
+        "entities": [
+            {
+                "entity": "Brian L. Taylor",
+                "label": "BORROWER"
+            },
+            {
+                "entity": "Golden State Financial",
+                "label": "LENDER"
+            }
+        ]
+    },
+    {
+        "text": "SECURED MORTGAGE LOAN AGREEMENT\n\nThis Mortgage Loan Agreement is entered into on March 5, 2025, between:\n\nBorrower: Sarah W. Johnson\nAddress: 100 Green Hill Dr, Los Angeles, CA 90001\nLender: Westlake Financial Group\nAddress: 500 Lakeview Rd, Los Angeles, CA 90002\n\nLoan Amount: $1,000,000\nInterest: 3.0% fixed rate\nLoan Term: 15 years\n\nThe Borrower agrees to repay the loan amount in monthly installments.\n\nSigned by Borrower: ____________________\nSigned by Lender: _____________________",
+        "entities": [
+            {
+                "entity": "Sarah W. Johnson",
+                "label": "BORROWER"
+            },
+            {
+                "entity": "Westlake Financial Group",
+                "label": "LENDER"
+            }
+        ]
+    },
+    {
+        "text": "MORTGAGE LOAN AGREEMENT\n\nThis agreement is made on the 5th day of March, 2025, by and between:\n\nBorrower: David M. Wright\nAddress: 25 Oakwood Dr, Chicago, IL 60601\nLender: Blue Ridge Bank\nAddress: 450 Westlake St, Chicago, IL 60602\n\nLoan Amount: $800,000\nInterest Rate: 4.0% per annum\nTerm: 30 years\n\nThe Borrower agrees to repay the loan amount with interest in monthly payments.\n\nSigned by Borrower: ____________________\nSigned by Lender: _____________________",
+        "entities": [
+            {
+                "entity": "David M. Wright",
+                "label": "BORROWER"
+            },
+            {
+                "entity": "Blue Ridge Bank",
+                "label": "LENDER"
+            }
+        ]
+    },
+    {
+        "text": "MORTGAGE LOAN AGREEMENT\n\nDate of Agreement: March 5, 2025\n\nBorrower: Rebecca C. Moore\nAddress: 456 Maple Lane, Atlanta, GA 30303\nLender: Summit Financial Inc.\nAddress: 200 Summit Parkway, Atlanta, GA 30304\n\nLoan Amount: $400,000\nInterest Rate: 3.5% annual\nTerm: 30 years\n\nThe Borrower agrees to make monthly payments in the amount set forth in the payment schedule.\n\nSigned by Borrower: ____________________\nSigned by Lender: _____________________",
+        "entities": [
+            {
+                "entity": "Rebecca C. Moore",
+                "label": "BORROWER"
+            },
+            {
+                "entity": "Summit Financial Inc.",
+                "label": "LENDER"
+            }
+        ]
+    },
+    {
+        "text": "REAL PROPERTY MORTGAGE AGREEMENT\n\nThis Agreement is entered into on March 5, 2025, between:\n\nBorrower: Steven B. Clark\nAddress: 876 River Bend Rd, Miami, FL 33101\nLender: Silver Lake Trust\nAddress: 220 Waterfront Dr, Miami, FL 33102\n\nLoan Amount: $500,000\nInterest Rate: 4.0% per annum\nLoan Term: 25 years\n\nThe Borrower shall repay the loan according to the payment schedule provided by the Lender.\n\nSigned by Borrower: ____________________\nSigned by Lender: _____________________",
+        "entities": [
+            {
+                "entity": "Steven B. Clark",
+                "label": "BORROWER"
+            },
+            {
+                "entity": "Silver Lake Trust",
+                "label": "LENDER"
+            }
+        ]
+    },
+    {
+        "text": "MORTGAGE CONTRACT\n\nThis Contract is made this 5th day of March, 2025, by and between:\n\nBorrower: Olivia T. Lee\nAddress: 300 Birchwood Ln, Orlando, FL 32801\nLender: National Mortgage Co.\nAddress: 800 Capital Ave, Orlando, FL 32802\n\nLoan Amount: $250,000\nInterest Rate: 4.2%\nTerm: 15 years\n\nThe Borrower promises to repay the loan amount in monthly installments, as per the agreed terms.\n\nSigned by Borrower: ____________________\nSigned by Lender: _____________________",
+        "entities": [
+            {
+                "entity": "Olivia T. Lee",
+                "label": "BORROWER"
+            },
+            {
+                "entity": "National Mortgage Co.",
+                "label": "LENDER"
+            }
+        ]
+    },
+    {
+        "text": "MORTGAGE AGREEMENT AND LOAN CONTRACT\n\nDated: March 5, 2025\n\nBorrower: Christopher J. Green\nAddress: 123 Pinewood Dr, New York, NY 10001\nLender: East Coast Lending\nAddress: 500 Madison Ave, New York, NY 10002\n\nLoan Amount: $950,000\nInterest Rate: 3.8% annually\nTerm: 30 years\n\nThe Borrower agrees to repay the Loan in monthly installments as set out in this Agreement.\n\nSigned by Borrower: ____________________\nSigned by Lender: _____________________",
+        "entities": [
+            {
+                "entity": "Christopher J. Green",
+                "label": "BORROWER"
+            },
+            {
+                "entity": "East Coast Lending",
+                "label": "LENDER"
+            }
+        ]
+    }
+]

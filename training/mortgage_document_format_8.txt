@@ -1,0 +1,17 @@
+MORTGAGE CONTRACT
+
+This Contract is made this 5th day of March, 2025, by and between:
+
+Borrower: Olivia T. Lee
+Address: 300 Birchwood Ln, Orlando, FL 32801
+Lender: National Mortgage Co.
+Address: 800 Capital Ave, Orlando, FL 32802
+
+Loan Amount: $250,000
+Interest Rate: 4.2%
+Term: 15 years
+
+The Borrower promises to repay the loan amount in monthly installments, as per the agreed terms.
+
+Signed by Borrower: ____________________
+Signed by Lender: _____________________
