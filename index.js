@@ -1,8 +1,16 @@
-data = require("./data.json")
+data = require("./model/data.json")
 tf = require("@tensorflow/tfjs-node")
 nlp = require("compromise")
 
-doc = data[0].text
+predict = require("./model/model.js").predict
+
+main = async () => {
+	model = await tf.loadLayersModel("file://model/model.json")
+	predict(model, data[1].text)
+}
+
+main()
 
 
-console.log(nlp(doc).out("tags"))
+
+
