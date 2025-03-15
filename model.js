@@ -1,5 +1,5 @@
 tf = require("@tensorflow/tfjs-node");
-data = require("./data.json");
+data = require("./model/data.json");
 nlp = require("compromise");
 
 keywords = ["borrower", "mortgator"];
@@ -115,7 +115,7 @@ function createModel(len) {
 	);
 	model.compile({
 		optimizer: "adam",
-		loss: "binaryCrossentropy",
+		loss: "categoricalCrossentropy",
 		metrics: ["accuracy"],
 	});
 
@@ -148,7 +148,7 @@ main = async () => {
 		epochs: 100,
 	});
 
-	await model.save("file://model.json");
+	await model.save("file://model");
 	console.log("model saved");
 };
 
